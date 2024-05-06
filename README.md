@@ -35,7 +35,7 @@
 1. Склонируйте репозиторий на локальную машину:
 
     ```
-    git clone https://github.com/AstraDinati/Finance-Wallet.git
+    git clone https://github.com/AstraDinati/Finance-Wallet
     ```
 
 2. Перейдите в директорию проекта:
